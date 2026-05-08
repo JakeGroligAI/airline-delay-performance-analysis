@@ -63,6 +63,16 @@ The primary objectives of this project were to:
 
 ![Delay by Carrier](images/Delay_by_carrier.png)
 
+### Monthly Delay Trends
+
+![Monthly Delay Trends](images/Delay_by_month.png)
+
+### Flight Volume vs Delay Rate
+
+![Flight Volume Relationship](images/Flight_volume_vs_delay.png)
+
+---
+
 ### 3. Statistical Analysis
 - Independent T-Test Analysis
 - One-Way ANOVA
