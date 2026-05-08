@@ -56,6 +56,13 @@ The primary objectives of this project were to:
 - Seasonal trend visualization
 - Cancellation pattern analysis
 
+- 
+## 📊 Sample Visualizations
+
+### Average Delay Rate by Carrier
+
+![Delay by Carrier](images/Delay_by_carrier.png)
+
 ### 3. Statistical Analysis
 - Independent T-Test Analysis
 - One-Way ANOVA
