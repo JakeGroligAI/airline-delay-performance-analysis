@@ -78,10 +78,6 @@ The primary objectives of this project were to:
 - One-Way ANOVA
 - Pearson Correlation Analysis
 
-![Pearson Correlation Analysis](images/h-test1.png)
-
-![Pearson Correlation Analysis](images/h-test2.png)
-
 ---
 
 ### 4. Business Insights & Recommendations
